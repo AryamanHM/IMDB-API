@@ -2,7 +2,7 @@ import unirest
 
 unirest.timeout(15) # 5s timeout
 
-RAPIDAPI_KEY  ="cc5c8944bcmsh85ecf2a5d42b71ep1d490ejsnc60353b67980" 
+RAPIDAPI_KEY  ="<Enter Rapid API Key>" 
 RAPIDAPI_HOST = "imdb8.p.rapidapi.com"
 
 search_string = ""
